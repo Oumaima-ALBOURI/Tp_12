@@ -1,0 +1,2 @@
+Bonjour, fichier Java !
+Ligne ajoutée avec succès.
